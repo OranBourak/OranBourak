@@ -10,3 +10,5 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on projects related to cybersecurity.
 - 📫 How to reach me: Oranbourak@gmail.com
 
+Languages
+Python JavaScript C Java TypeScript C++ SQL Swift
