@@ -7,7 +7,6 @@ Here are some ideas to get you started:
 -->
 
 - 🌱 I’m currently  studying for my BSc degree at SCE - Shamoon College of Engineering
-- 👯 I’m looking to collaborate on projects related to cybersecurity
+- 👯 I’m looking to collaborate on projects related to cybersecurity.
 - 📫 How to reach me: Oranbourak@gmail.com
-
 
