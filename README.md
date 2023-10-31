@@ -24,9 +24,6 @@ I am enhancing my cybersecurity skills through Google's Cybersecurity Profession
 
 ### Professional Development 🚀
 
-- **Google Cybersecurity Professional Course** (In Progress)  
-  Focusing on threat identification, security protocol implementation, incident response management.
-
 - **Student Exchange Program**  
   Otto Von Guericke University (OVGU) - Magdeburg, Germany  
   Advanced courses in SDN, Database Models, Robotics, Compilations.
