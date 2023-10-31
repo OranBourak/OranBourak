@@ -1,6 +1,6 @@
 # Oran Bourak
 
-## Software Engineer Student (4th year) | Aspiring Security Engineer
+## Software Engineer Student (4th year) | Security Engineer
 
 📍 Rehovot, Israel  
 📞 +972 542142550  
