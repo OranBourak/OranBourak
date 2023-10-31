@@ -5,7 +5,7 @@
 📍 Rehovot, Israel  
 📞 +972 542142550  
 ✉️ oranbourak@gmail.com  
-🔗 [LinkedIn](www.linkedin.com/in/oran-bourak)
+🔗 [LinkedIn]([www.linkedin.com/in/oran-bourak](https://www.linkedin.com/in/oran-bourak/))
 
 ---
 
