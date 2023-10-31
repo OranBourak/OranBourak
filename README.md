@@ -21,9 +21,7 @@ I am enhancing my cybersecurity skills through Google's Cybersecurity Profession
   SCE Academic College, IL  
   Departmental Honors for academic excellence (GPA: 95)  
   Specialization: Cybersecurity, Network Communications
-
-### Professional Development 🚀
-
+  
 - **Student Exchange Program**  
   Otto Von Guericke University (OVGU) - Magdeburg, Germany  
   Advanced courses in SDN, Database Models, Robotics, Compilations.
