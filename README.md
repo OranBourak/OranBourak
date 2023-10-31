@@ -28,8 +28,22 @@ I am enhancing my cybersecurity skills through Google's Cybersecurity Profession
 
 ### Technical Skills 🛠️
 
-- **Programming Languages**: C, C++, Python, Java, SQL, NoSQL, JavaScript
-- **Networking Tools & Software**: Wireshark, Mininet, P4, OpenFlow, DPDK, Scapy
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![NoSQL](https://img.shields.io/badge/NoSQL-00C58E?style=for-the-badge&logo=mongodb&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### Networking Tools & Software
+
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Mininet](https://img.shields.io/badge/Mininet-4479A1?style=for-the-badge&logo=mininet&logoColor=white)
+![P4](https://img.shields.io/badge/P4-4479A1?style=for-the-badge&logo=P4&logoColor=white)
+![OpenFlow](https://img.shields.io/badge/OpenFlow-00599C?style=for-the-badge&logo=openflow&logoColor=white)
+![DPDK](https://img.shields.io/badge/DPDK-ED8B00?style=for-the-badge&logo=dpdk&logoColor=white)
+![Scapy](https://img.shields.io/badge/Scapy-3776AB?style=for-the-badge&logo=scapy&logoColor=white)
 
 ### Projects and Collaborations 🌐
 
