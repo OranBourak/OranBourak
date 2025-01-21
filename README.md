@@ -1,6 +1,6 @@
 # Oran Bourak
 
-## Software Engineer Student (4th year) | Security Engineer
+## Software Engineer 
 
 📍 Rehovot, Israel  
 📞 +972 542142550  
@@ -9,11 +9,8 @@
 
 ---
 
-Welcome to my GitHub profile! I'm Oran, a dedicated Software Engineering student at SCE Academic College, with a strong focus on Cybersecurity and Network Communication. Currently in my final year, I am actively seeking opportunities to bring my robust academic knowledge and practical experience into a Security Engineer role.
+Welcome to my GitHub profile! I'm Oran, a dedicated Software Engineering with a strong focus on Cybersecurity and Network Communication.
 
-### What I'm working on 👨‍💻
-
-I am enhancing my cybersecurity skills through Google's Cybersecurity Professional Course and have recently completed an enriching student exchange program at Otto Von Guericke University in Germany, where I delved into advanced topics in cyber and communication fields.
 
 ### Academic Highlights 🎓
 
